@@ -1,0 +1,7 @@
+name,selectivity_score,p_M1,p_M2,p_M3,p_M4,p_M5,p_D2,p_5-HT2A,p_H1,n_off_targets,off_targets
+CNO,0.7941,0.5962,0.8099,0.7235,0.7455,0.7781,0.6808,0.6643,0.9111,7,"Histamine H1, Muscarinic M2, Muscarinic M5, Muscarinic M4, Dopamine D2, Serotonin 5-HT2A, Muscarinic M1"
+Clozapine,0.8233,0.5608,0.8375,0.7551,0.7252,0.8356,0.6196,0.8813,0.9172,7,"Histamine H1, Serotonin 5-HT2A, Muscarinic M2, Muscarinic M5, Muscarinic M4, Dopamine D2, Muscarinic M1"
+DCZ,0.8254,0.5592,0.8276,0.6924,0.7639,0.826,0.5346,0.8389,0.8196,7,"Serotonin 5-HT2A, Muscarinic M2, Muscarinic M5, Histamine H1, Muscarinic M4, Muscarinic M1, Dopamine D2"
+Compound 21,0.6743,0.4594,0.2757,0.4644,0.4484,0.583,0.4815,0.6304,0.6887,3,"Histamine H1, Serotonin 5-HT2A, Muscarinic M5"
+Olanzapine,0.8662,0.6813,0.8346,0.7913,0.7289,0.8195,0.6952,0.8186,0.9135,7,"Histamine H1, Muscarinic M2, Muscarinic M5, Serotonin 5-HT2A, Muscarinic M4, Dopamine D2, Muscarinic M1"
+Perlapine,0.6568,0.4044,0.7909,0.5854,0.794,0.648,0.5587,0.8438,0.8913,6,"Histamine H1, Serotonin 5-HT2A, Muscarinic M4, Muscarinic M2, Muscarinic M5, Dopamine D2"

@@ -1,0 +1,21 @@
+streamlit>=1.30.0
+biopython>=1.83
+py3Dmol>=2.0.0
+stmol>=0.0.9
+pandas>=2.0.0
+matplotlib>=3.8.0
+plotly>=5.18.0
+numpy>=1.26.0
+rdkit
+# Module 4: Molecular Docking
+meeko>=0.5.0
+vina>=1.2.5
+# Module 6: ML ADMET
+scikit-learn>=1.3.0
+scipy>=1.11.0
+joblib>=1.3.0
+PyTDC>=0.4.0
+# Module 7: Selectivity
+chembl_webresource_client>=0.10.0
+# Module 8: Molecular Dynamics (install via conda)
+# conda install -c conda-forge openmm openmmforcefields pdbfixer mdanalysis mdtraj

@@ -1,0 +1,7 @@
+name,mw,logp,tpsa,hbd,hba,rotatable_bonds,aromatic_rings,fsp3,bbb_predicted,lipinski_violations
+CNO,342.83,3.74,50.69,1,4,0,2,0.278,Non-penetrant,0
+Clozapine,326.83,3.72,30.87,1,4,0,2,0.278,Non-penetrant,0
+DCZ,292.39,3.07,30.87,1,4,0,2,0.278,Non-penetrant,0
+Compound 21,322.36,3.49,74.82,2,4,3,3,0.158,Non-penetrant,0
+Olanzapine,312.44,3.44,30.87,1,5,0,2,0.353,Non-penetrant,0
+Perlapine,291.4,2.92,18.84,0,3,0,2,0.316,Penetrant,0

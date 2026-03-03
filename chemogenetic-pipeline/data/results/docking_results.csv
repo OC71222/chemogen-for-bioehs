@@ -1,0 +1,7 @@
+name,affinity_kcal_mol,n_poses,success,estimated,pose_path
+CNO,-5.859,1,True,False,/Users/ocheng1222/Desktop/projects/chemogen/chemogenetic-pipeline/data/docking/poses/CNO_pose.pdbqt
+Clozapine,-8.921,2,True,False,/Users/ocheng1222/Desktop/projects/chemogen/chemogenetic-pipeline/data/docking/poses/Clozapine_pose.pdbqt
+DCZ,-10.785,1,True,False,/Users/ocheng1222/Desktop/projects/chemogen/chemogenetic-pipeline/data/docking/poses/DCZ_pose.pdbqt
+Compound 21,-6.65,2,True,False,/Users/ocheng1222/Desktop/projects/chemogen/chemogenetic-pipeline/data/docking/poses/Compound_21_pose.pdbqt
+Olanzapine,-3.634,7,True,False,/Users/ocheng1222/Desktop/projects/chemogen/chemogenetic-pipeline/data/docking/poses/Olanzapine_pose.pdbqt
+Perlapine,-10.627,1,True,False,/Users/ocheng1222/Desktop/projects/chemogen/chemogenetic-pipeline/data/docking/poses/Perlapine_pose.pdbqt

@@ -1,0 +1,21 @@
+compound_id,smiles,affinity,n_poses,success,estimated,max_tanimoto,closest_actuator,is_novel,hit_rank
+ZINC_000125,F.c1ccc2c(c1)N=C(N1CCNCC1)c1ccccc1N2,-10.08,1,True,True,0.7,DCZ,False,1
+ZINC_000112,C.c1ccc2c(c1)N=C(N1CCNCC1)c1ccccc1N2,-9.4,1,True,True,0.7,DCZ,False,2
+ZINC_000099,C1CCNCC1.CN1CCC(c2ccccc2)CC1,-9.09,1,True,True,0.2549,DCZ,True,3
+ZINC_000011,OC(F)(F)F.c1ccc2c(c1)N=C(N1CCNCC1)c1ccccc1N2,-8.82,1,True,True,0.6222,DCZ,False,4
+ZINC_000147,CN1CCN(c2ccc(F)cc2)CC1.O=CO,-8.79,1,True,True,0.2766,Perlapine,True,5
+ZINC_000017,Clc1ccc2c(c1)N=C(N1CCNCC1)C1=CC3=CC3CCOCCC=C1N2,-8.79,1,True,True,0.3562,Clozapine,True,6
+ZINC_000127,CN1CCN(c2ccc(F)cc2)CC1.N,-8.72,1,True,True,0.3095,Perlapine,True,7
+ZINC_000063,C1CCNCC1.CCc1c(C)[nH]c2ccccc12,-8.4,1,True,True,0.1667,Compound 21,True,8
+ZINC_000046,O.c1ccc2c(c1)N=C(N1CCNCC1)c1ccccc1N2,-8.4,1,True,True,0.7,DCZ,False,9
+ZINC_000079,c1ccc2ncccc2c1.c1ccccc1,-7.84,1,True,True,0.1364,Perlapine,True,10
+ZINC_000138,CN1CCN(c2ccc(F)c(C(=O)O)c2)CC1,-7.72,1,True,True,0.2586,Clozapine,True,11
+ZINC_000121,CN1CCN(c2ccc(Cl)c(C(=O)O)c2)CC1,-7.72,1,True,True,0.2807,Clozapine,True,12
+ZINC_000007,C1=C2C=c3[nH]ccc3=CCCOCCC12,-7.72,1,True,True,0.0845,Olanzapine,True,13
+ZINC_000090,CN1CCN(c2ccc(F)c(C(F)(F)F)c2)CC1,-7.72,1,True,True,0.2679,Clozapine,True,14
+ZINC_000033,CCNc1c(Cl)ccc2c1N=C(N1CCNCC1)c1ccccc1N2,-7.71,1,True,True,0.4355,Clozapine,False,15
+ZINC_000078,O=C(O)c1c(Cl)ccc2c1N=C(N1CCNCC1)c1ccccc1N2,-7.71,1,True,True,0.4262,Clozapine,False,16
+ZINC_000003,c1ccc2c(c1)N=C(N1CCNCC1)c1ccccc1N2,-7.66,1,True,True,0.7179,DCZ,False,17
+ZINC_000140,CCc1ccc2c(c1)C(N1CCNCC1)=Nc1ccccc1N2,-7.65,1,True,True,0.54,DCZ,False,18
+ZINC_000025,Nc1ccc2ccccc2n1.OC(F)(F)F,-7.65,1,True,True,0.1176,Perlapine,True,19
+ZINC_000075,Oc1cccc2c1N=C(N1CCNCC1)c1ccccc1N2,-7.65,1,True,True,0.4694,DCZ,False,20

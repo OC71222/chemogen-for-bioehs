@@ -1,0 +1,5 @@
+rmsd,n_atoms,aligned,ref_file,pred_file,name
+2.184,279,True,8E9Y.pdb,CNO.cif,CNO vs 8E9Y
+2.351,280,True,8E9W.pdb,DCZ.cif,DCZ vs 8E9W
+22.035,349,True,7WC7.pdb,DCZ.cif,DCZ vs 7WC7
+19.281,351,True,7WC8.pdb,Compound_21.cif,Compound 21 vs 7WC8

@@ -1,0 +1,7 @@
+name,pubchem_cid,smiles,role
+CNO,135445691,"C[N+]1(CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42)[O-]",baseline
+Clozapine,135398737,"CN1CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42",metabolite
+DCZ,16103,"CN1CCN(CC1)C2=NC3=CC=CC=C3NC4=CC=CC=C42",preferred
+Compound 21,135445020,"CCN1C2=CC=CC=C2C(=C(C1=O)C=NC3=CC(=C(C=C3)O)C)O",alternative
+Olanzapine,135398745,"CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C",repurposed
+Perlapine,16106,"CN1CCN(CC1)C2=NC3=CC=CC=C3CC4=CC=CC=C42",experimental

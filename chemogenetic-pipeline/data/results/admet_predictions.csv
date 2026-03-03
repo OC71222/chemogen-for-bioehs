@@ -1,0 +1,7 @@
+name,smiles,bbb_ml_prob,bbb_ml_class,bbb_ml_confidence,herg_prob,herg_class,herg_risk,cyp2d6_prob,cyp2d6_inhibitor,hia_prob,hia_class,clearance_pred,clearance_cat,bbb_rule_based
+CNO,C[N+]1(CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42)[O-],0.9186,Penetrant,0.8372,0.3304,Non-inhibitor,Low,0.4286,False,0.6132,High absorption,39.48,Moderate clearance,Non-penetrant
+Clozapine,CN1CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42,0.9478,Penetrant,0.8956,0.7331,Inhibitor,High,0.4953,False,0.9819,High absorption,21.23,Moderate clearance,Non-penetrant
+DCZ,CN1CCN(CC1)C2=NC3=CC=CC=C3NC4=CC=CC=C42,0.9386,Penetrant,0.8772,0.71,Inhibitor,High,0.4292,False,0.982,High absorption,27.6,Moderate clearance,Non-penetrant
+Compound 21,CCN1C2=CC=CC=C2C(=C(C1=O)C=NC3=CC(=C(C=C3)O)C)O,0.6637,Penetrant,0.3274,0.7377,Inhibitor,High,0.1283,False,0.9215,High absorption,35.98,Moderate clearance,Non-penetrant
+Olanzapine,CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C,0.9382,Penetrant,0.8764,0.7653,Inhibitor,High,0.3435,False,0.9802,High absorption,35.58,Moderate clearance,Non-penetrant
+Perlapine,CN1CCN(CC1)C2=NC3=CC=CC=C3CC4=CC=CC=C42,0.9596,Penetrant,0.9192,0.7513,Inhibitor,High,0.4239,False,0.9929,High absorption,43.48,Moderate clearance,Penetrant
